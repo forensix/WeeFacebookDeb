@@ -1,0 +1,13 @@
+1. Copy the .deb file to /var/mobile on your iPhone (on OS X you could use Cyberduck (ssh))
+
+2. ssh root@$YOUR_IP
+
+3. cd /var/mobile
+
+4. dpkg -i com.manuelgebele.weefacebook_1.0.1-1_iphoneos-arm.deb
+
+5. respring
+
+WeeFacebook should now appear in the Notification Center.
+
+Happy Hacking!
