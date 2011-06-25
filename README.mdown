@@ -1,3 +1,6 @@
+WeeFacebook 2.0 .deb Package
+----------------------------
+
 1. Copy the .deb file to /var/mobile on your iPhone (on OS X you could use Cyberduck (ssh))
 
 2. ssh root@$YOUR_IP
